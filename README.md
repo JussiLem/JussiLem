@@ -7,9 +7,11 @@ This repositories purpose is to give you a hint of my work and studies. Also thi
 ## Table Of Content
 
 * [Programming Languages] (#programming-languages)
+* [My Software] (#my-software)
   * [JavaScript] (#javascript)
   * [Python / Django] (#python-django)
   * [C# / Unity] (#c-unity)
+
 * [My Sites] (#my-sites)
 
 ## Programming Languages
@@ -17,11 +19,18 @@ This repositories purpose is to give you a hint of my work and studies. Also thi
 * **Python** (and Django). I Started to learn Python as my first programming language and I hope I can pick it up again soon. I have created working web server framework with Django.
 * **C#** This one is still on its early starting phase. My first 2D(and 3D after that) is almost ready!
 
+## My Software
 **Legend:**
 
-* ⭐️: Very Active / Popular
+* ⭐️: Active
 * ⚠️: Obsolete / Unmaintained
-* 🛠: Fork / Unoriginal Code / Inherited
+* 🛠: Fork / Unoriginal Code
+
+#### JavaScript
+
+#### Python / Django
+
+#### C# / Unity
 
 ## My Sites
 
