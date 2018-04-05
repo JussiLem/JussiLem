@@ -1,6 +1,6 @@
 # About Me
 
-I'm a 31 year old ICT enthusiast based in Helsinki, Finland. I have lived here in Helsinki for most of my life, but I tend to travel quite a bit and by doing that, I could see myself living somewhere else in the world aswell. Before studies, I drove taxi over ten years(and still do occasionally), but few years ago I felt that I'd wanted to do study and do something different in my life, so now I'm studying Computer Science in Haaga-Helia Univeristy Of Applied Sciences. My goal is to graduate in 2020 as (frontend/backend/fullstack) developer.
+I'm a 31 year old ICT enthusiast based in Helsinki, Finland. I have lived here in Helsinki for most of my life, even though I was born in Stockholm, Sweden. Before studies, I drove taxi over ten years(and still do occasionally), but few years ago I felt that I'd wanted to do study and do something different in my life, so now I'm studying Computer Science in Haaga-Helia Univeristy Of Applied Sciences. My goal is to graduate in 2020 as (fullstack) developer.
 
 This repositories purpose is to give you a hint of my work and studies. Also this works as a reminder for me for the things I should get done and things that matter to me. If your curious take a look and watch for the changes.
 
