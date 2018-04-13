@@ -13,6 +13,8 @@ This repositories purpose is to give you a hint of my work and studies. Also thi
   * [C# / Unity] (#c-unity)
 
 * [My Sites] (#my-sites)
+  * Blog
+  * GitLab
 
 ## Programming Languages
 * **JavaScript**. This is what I've been working on school, I'm also starting to use it at my own projects as well. Typed variations of JavaScript(TypeScript) for example looks really intresting
@@ -35,3 +37,4 @@ This repositories purpose is to give you a hint of my work and studies. Also thi
 ## My Sites
 
 * [Blog](https://jussilemmetyinen.me)
+* [Gitlab] (http://gitjussilem.tech)
