@@ -31,6 +31,7 @@ This repositories purpose is to give you a hint of my work and studies. Also thi
 #### JavaScript
 
 #### Python / Django
+* ** Django Web framework https://github.com/JussiLem/didactic-octo-fortnight ⚠️
 
 #### C# / Unity
 
