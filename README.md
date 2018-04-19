@@ -29,7 +29,7 @@ This repositories purpose is to give you a hint of my work and studies. Also thi
 * 🛠: Fork / Unoriginal Code
 
 #### JavaScript
-* ** Intense, [almost daily JavaScript training](../JussiLem/automatic-waddle) | ⭐️ 
+* ** Intense, [almost daily JavaScript training](../../JussiLem/automatic-waddle) | ⭐️ 
 #### Python / Django
 * ** Tutorial [Django Web framework](../JussiLem/didactic-octo-fortnight) | ⚠️
 
