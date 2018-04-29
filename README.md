@@ -6,22 +6,21 @@ This repositories purpose is to give you a hint of my work and studies. Also thi
 
 ## Table Of Content
 
-### [Programming Languages] (#programming-languages)
-#### [My Software] (#my-software)
+#### [Programming Languages] (#programming-languages)
   * [JavaScript] (#javascript)
   * [PHP] (#php)
   * [Python / Django] (#python-django)
   * [C# / Unity] (#c-unity)
   
 #### [Technlogies]
-  * [Linux] (#linux)
-  * [Wordpress] (#wordpress)
-  * [Docker] (#docker)
-  * [DigitalOcean's Droplets] (#droplet)
-  * [Google Cloud] (#google)
-  * [Sendgrid] (#sendgrid)
+  + [Linux] (#linux)**
+  + [Wordpress] (#wordpress)
+  + [Docker] (#docker)
+  + [DigitalOcean's Droplets] (#droplet)
+  + [Google Cloud] (#google)
+  + [Sendgrid] (#sendgrid)
 
-* [My Sites] (#my-sites)
+#### [My Sites] (#my-sites)
   * Blog
   * GitLab
 
