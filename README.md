@@ -9,16 +9,26 @@ This repositories purpose is to give you a hint of my work and studies. Also thi
 * [Programming Languages] (#programming-languages)
 * [My Software] (#my-software)
   * [JavaScript] (#javascript)
+  * [PHP] (#php)
   * [Python / Django] (#python-django)
   * [C# / Unity] (#c-unity)
+  
+ * [Technlogies]
+  * [Linux] (#linux)
+  * [Wordpress] (#wordpress)
+  * [Docker] (#docker)
+  * [DigitalOcean's Droplets] (#droplet)
+  * [Google Cloud] (#google)
+  * [Sendgrid] (#sendgrid)
 
 * [My Sites] (#my-sites)
   * Blog
   * GitLab
 
 ## Programming Languages
-* **JavaScript**. This is what I've been working on school, I'm also starting to use it at my own projects as well. Typed variations of JavaScript(TypeScript) for example looks really intresting
-* **Python** (and Django). I started to learn Python as my first programming language and I hope I can pick it up again soon. I have created working web server framework with Django.
+* **JavaScript** is what I've been working on school. Typed variations of JavaScript(TypeScript for example) looks really intresting.
+* **PHP** It comes hand in hand With Wordpress.
+* **Python** (and Django). I started to learn Python as my first programming language. I think it's really beautiful looking langugage. I have created (working) web server framework with Django and debugging scripts.
 * **C#** This one is still on its early starting phase. My first 2D(and 3D after that) game is almost ready!
 
 ## My Software
