@@ -6,14 +6,14 @@ This repositories purpose is to give you a hint of my work and studies. Also thi
 
 ## Table Of Content
 
-* [Programming Languages] (#programming-languages)
-* [My Software] (#my-software)
+### [Programming Languages] (#programming-languages)
+#### [My Software] (#my-software)
   * [JavaScript] (#javascript)
   * [PHP] (#php)
   * [Python / Django] (#python-django)
   * [C# / Unity] (#c-unity)
   
- * [Technlogies]
+#### [Technlogies]
   * [Linux] (#linux)
   * [Wordpress] (#wordpress)
   * [Docker] (#docker)
