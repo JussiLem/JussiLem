@@ -13,16 +13,16 @@ If your curious take a look and watch for the changes.
 ## Table Of Content
 
 #### [Programming Languages] (#programming-languages)
-  * [Java] (#java)
-  * [Scala] (#scala)
-  * [Kotlin] (#kotlin)
-  * [JavaScript] (#javascript)
-  * [Python] (#python-django)
+  * [Java](#java)
+  * [Scala](#scala)
+  * [Kotlin](#kotlin)
+  * [JavaScript](#javascript)
+  * [Python](#python)
   
-#### [Technlogies]
-  + [AWS] (#aws)**
-  + [Docker] (#docker)
-  + [Kafka] (#kafka)
+#### [Technologies]
+  + [AWS](#aws)
+  + [Docker](#docker)
+  + [Kafka](#kafka)
 
 #### [My Sites] (#my-sites)
   * Blog
