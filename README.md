@@ -43,10 +43,10 @@ If your curious take a look and watch for the changes.
 * 🛠: Fork / Unoriginal Code
 
 #### React Native
-* ** Ongoing school thingy, [almost daily JavaScript training](https://github.com/JussiLem/fictional-broccoli) | ⭐ 
+* Ongoing school thingy, [Fictional-broccoli](https://github.com/JussiLem/fictional-broccoli) | ⭐ 
 #### JavaScript
-* ** Intense, [almost daily JavaScript training](https://github.com/JussiLem/automatic-waddle) | ⚠️ 
+* Oldie js trainings, [almost daily JavaScript training](https://github.com/JussiLem/automatic-waddle) | ⚠️ 
 #### Python / Django
-* ** Tutorial [Django Web framework](https://github.com/JussiLem/didactic-octo-fortnight) | ⚠️
+* Tutorial, [Django Web framework](https://github.com/JussiLem/didactic-octo-fortnight) | ⚠️
 
 
