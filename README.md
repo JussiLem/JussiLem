@@ -1,13 +1,31 @@
-# About Me
+# 👨 About Me
 
-I'm a 33-year-old dude living in Helsinki, Finland. 
-I have lived here in Helsinki for most of my life, even though I was born in Stockholm, Sweden. 
-Before studies, I drove taxi over ten years, 
-but I felt that I'd wanted to do study and do something different in my life some years ago, 
-so now I'm almost graduated ICT-student in Haaga-Helia Univeristy Of Applied Sciences.
+<div class="info">
+  <p align="center" class="header-image"><img src="images/me.jpg" width="200" alt="Image of Jussi Lemmetyinen looking into camera"></p>
+  <h1 class="name" align="center"><span>Jussi Lemmetyinen</span></h1>
+  <p class="meta-data" align="center">
+    ✨ Siili Consultant at <a target="_blank" rel="noopener noreferrer" href="https://www.siili.com">Siili</a> ✨<br/>
+    ✨ DevOps Hero ✨<br/>
+    ✨ Cloud Engineer ✨<br/>
+    ✨ Full-stack Developer ✨
+  </p>
+  <p class="info-footer" align="center">
+    🥃👨‍💻🐼
+  </p>
+</div>
 
-This repositories purpose is to give you a hint of my work and studies. 
-Also this works as a reminder for me about the things I should get done and things that matter to me. 
+---
+
+# 👨‍💻 Biography
+
+Jussi is a 33-year-old dude living in Helsinki, Finland. 
+He has lived in Helsinki for most of my life, even though he was born in Stockholm, Sweden. 
+Before studies, he drove taxi over ten years, 
+but he felt that he wanted to do something different in his life some years ago,
+so now he is almost graduated ICT-student in Haaga-Helia Univeristy Of Applied Sciences.
+
+The purpose of these repositories is to give you a hint of Jussi's work and studies. 
+Also, this works as a reminder for Jussi about the things he should get done and things that matter to him. 
 If your curious take a look and watch for the changes.
 
 ## Table Of Content
@@ -24,16 +42,13 @@ If your curious take a look and watch for the changes.
   + [Docker](#docker)
   + [Kafka](#kafka)
 
-#### [My Sites] (#my-sites)
-  * Blog
-  * GitLab
 
 ## Programming Languages
-* **Java** In school and work.
-* **Kotlin** My favourite.
+* **Java** Jussi have worked Java in school and work.
+* **Kotlin** Jussi's favourite language.
 * **JavaScript** Typed variations of JavaScript(TypeScript for example) looks interesting.
 * **Scala** Always nice to work with.
-* **Python** My first.
+* **Python** Jussi's first programming language.
 
 ## My Software
 **Legend:**
