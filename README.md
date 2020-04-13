@@ -64,4 +64,7 @@ If your curious take a look and watch for the changes.
 #### Python / Django
 * Tutorial, [Django Web framework](https://github.com/JussiLem/didactic-octo-fortnight) | ⚠️
 
-
+## 👥 Social Channels
+- 📧 [Email hi@gmail.com](mailto:jussi.lem@gmail.com.com)
+- :octocat: [GitHub JussiLem](https://github.com/JussiLem)
+- 📸 [Instagram](https://instagram.com/menninkaenen)
