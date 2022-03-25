@@ -1,6 +1,4 @@
-# 👨 About Me
-
-Jussi is a dude living in Helsinki, Finland. 
+Hey, I'm Jussi
 
 ![](https://github-readme-stats.vercel.app/api?username=JussiLem&show_icons=true&theme=nightowl)
 
